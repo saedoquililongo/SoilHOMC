@@ -1,0 +1,59 @@
+                     SoilHOMC                    
+ Soil Heat - Soil Organic Matter Combustion Model
+ 
+ Enter the name of the input file:
+ Filename: Soil1.dat                                         
+ Model name: Soil1                                             
+ 
+ ########################
+ #   Soil description   #
+ ########################
+ Sand fraction and clay fraction (g/g)
+       0.15
+       0.20
+ 
+ Bulk density (g/cm3)
+       1.33
+ 
+ Volumetric pore radius (mm)
+       0.00
+ 
+ ########################
+ #  Initial conditions  #
+ ########################
+ Initial temperature (C)
+       16.0
+ 
+ Initial water content (cm3/cm3)
+       0.17
+ 
+ Initial SOM (g/g)
+       0.08
+ 
+ ########################
+ # Wildfire description #
+ ########################
+ Wildfire surface temperature (C)
+       635.
+ 
+ Exposure time (h)
+       1.00
+ 
+ ########################
+ #   Model parameters   #
+ ########################
+ Domain depth (m)
+       1.00
+ 
+ Mesh size (m)
+      0.005
+ 
+ Time stability corrector (-)
+    0.01000
+ 
+ 
+ Initializing simulation
+ 
+ Simulation successfully finished
+ Writing SOM output, please wait...
+ Writing Temperature output, please wait...
